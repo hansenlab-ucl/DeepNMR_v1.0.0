@@ -1,8 +1,8 @@
 # DeepNMR
 
 
-DeepNMR v1.0.0 (Alpha Release)
-
+**DeepNMR v1.0.0 (Alpha Release)
+**
 DeepNMR allows one to run deep neural networks directly on the NMR spectrometer, with a simple installation and fully integrated TopSpin workflows. The module is available for TopSpin 3.x, 4.x, and 5.x on macOS, Linux, and Windows 11.
 
 This first release includes three deep learning models:
