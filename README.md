@@ -1,4 +1,4 @@
-# DeepNMR
+<h1 align="center">DeepNMR</h1>
 
 <img width="1280" height="673" alt="DeepNMR" src="https://github.com/user-attachments/assets/e6aac31a-9acf-4f4a-8f6f-3af25fb91ff0" />
 
