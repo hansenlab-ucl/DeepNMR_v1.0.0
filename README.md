@@ -29,8 +29,8 @@ We hope DeepNMR will make deep learning-enhanced NMR processing more accessible 
 
 ### References:
 
-1. V. M. R. Kakita, D. F. Hansen, **J. Am.Chem. Soc. 2026, 148, 9, 9226–9230**. Deep Learning‑Assisted Proton Pure‑Shift NMR Spectroscopy. https://doi.org/10.1021/jacs.5c22860
+1. V. M. R. Kakita, D. F. Hansen, **_J. Am.Chem. Soc. 2026, 148, 9, 9226–9230_**. Deep Learning‑Assisted Proton Pure‑Shift NMR Spectroscopy. https://doi.org/10.1021/jacs.5c22860
 
-2. N. P. Khandave, V. M. R. Kakita, C. J. Buchanan, V. K. Shukla, K. Haubrich, P. Vallurupalli, D. F. Hansen,  **Proc. Natl. Acad. Sci. USA, 2026, 23, 17, e2527937123**. Two-dimensional NMR from a single pulse: Reconstructing heteronuclear 2D spectra via off-resonance decoupling and deep neural networks. https://doi.org/10.1073/pnas.2527937123
+2. N. P. Khandave, V. M. R. Kakita, C. J. Buchanan, V. K. Shukla, K. Haubrich, P. Vallurupalli, D. F. Hansen,  **_Proc. Natl. Acad. Sci. USA, 2026, 23, 17, e2527937123_**. Two-dimensional NMR from a single pulse: Reconstructing heteronuclear 2D spectra via off-resonance decoupling and deep neural networks. https://doi.org/10.1073/pnas.2527937123
 
-3. V. K. Shukla, G. Karunanithy, P. Vallurupalli, D. F. Hansen,  **Sci. Adv. 2024, 10, eadr2155**. A combined NMR and deep neural network approach for enhancing the spectral resolution of aromatic side chains in proteins. https://doi.org/10.1126/sciadv.adr215
+3. V. K. Shukla, G. Karunanithy, P. Vallurupalli, D. F. Hansen,  **_Sci. Adv. 2024, 10, eadr2155_**. A combined NMR and deep neural network approach for enhancing the spectral resolution of aromatic side chains in proteins. https://doi.org/10.1126/sciadv.adr215
