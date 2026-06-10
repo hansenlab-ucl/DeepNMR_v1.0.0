@@ -1,19 +1,19 @@
 # DeepNMR
 
 
-**DeepNMR v1.0.0 (Alpha Release)
-**
+# DeepNMR v1.0.0 (Alpha Release)
+
 DeepNMR allows one to run deep neural networks directly on the NMR spectrometer, with a simple installation and fully integrated TopSpin workflows. The module is available for TopSpin 3.x, 4.x, and 5.x on macOS, Linux, and Windows 11.
 
 This first release includes three deep learning models:
 
-FIDNETPS
+# FIDNETPS
 Deep learning-assisted pure shift NMR for small molecules, generating high-resolution virtually homonuclear decoupled spectra from spin-echo modulated data. The module supports both 1D and 2D pure shift applications.
 
-Single13CH
+# Single13CH
 Reconstruction of methyl 1H-13C correlation maps from single-pulse off-resonance decoupling experiments recorded on large proteins labelled with 13CHD2 methyl groups.
 
-Aromatic FIDNet2
+# Aromatic FIDNet2
 Virtual 13C-13C homodecoupling and resolution enhancement of aromatic side-chain 2D ¹H-¹³C HSQC spectra, enabling improved characterisation of aromatic residues in proteins.
 
 DeepNMR is distributed under the MIT License and includes the required TopSpin macros, example datasets, pulse sequences, parameter files, installers for all supported operating systems, and a comprehensive user manual. 
@@ -23,7 +23,7 @@ Download link: https://www.dropbox.com/scl/fo/3oea4bf3j8p3w0ykzu0ja/ADvCB3Gwj7cz
 
 We hope DeepNMR will make deep learning-enhanced NMR processing more accessible to the community and help users process spectra directly at the spectrometer. Please let us know of any questions or suggestions you may have.
 
-References:
+## References:
 
 1. V. M. R. Kakita, D. F. Hansen, J. Am.Chem. Soc. 2026, 148, 9, 9226–9230. Deep Learning‑Assisted Proton Pure‑Shift NMR Spectroscopy. https://doi.org/10.1021/jacs.5c22860
 N. P. Khandave, V. M. R. Kakita, C. J. Buchanan, V. K. Shukla, K. Haubrich, P. Vallurupalli, D. F. 
