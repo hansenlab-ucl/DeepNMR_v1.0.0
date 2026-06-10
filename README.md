@@ -1,5 +1,8 @@
 # DeepNMR
 
+<img width="1280" height="673" alt="DeepNMR" src="https://github.com/user-attachments/assets/e6aac31a-9acf-4f4a-8f6f-3af25fb91ff0" />
+
+
 ##
 DeepNMR is distributed under the MIT License and includes the required TopSpin macros, example datasets, pulse sequences, parameter files, installers for all supported operating systems, and a comprehensive user manual. 
 
