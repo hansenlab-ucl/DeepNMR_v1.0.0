@@ -9,7 +9,8 @@ DeepNMR is distributed under the MIT License and includes the required TopSpin m
 ## **On Linux, DeepNMR requires glibc version 2.23 or later.**
 
 ### Download link: 
-https://www.dropbox.com/scl/fo/3oea4bf3j8p3w0ykzu0ja/ADvCB3Gwj7czXdTbdtFvYWc?rlkey=77gy9pwnqss1czud1xhcv3cgz&st=s89rnojp&dl=0
+
+https://www.dropbox.com/scl/fo/zq61iesh5rc9hyty4u3da/ANRbM_NoMKZ9_Y72V18Vrpc?rlkey=buwd60xyfp0qxc9wf2rs8mav2&st=t2i0o1ur&dl=0
 
 #
 
