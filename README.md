@@ -6,6 +6,8 @@
 ##
 DeepNMR is distributed under the MIT License and includes the required TopSpin macros, example datasets, pulse sequences, parameter files, installers for all supported operating systems, and a comprehensive user manual. 
 
+## **On Linux, DeepNMR requires glibc version 2.23 or later.**
+
 ##
 Download link: https://www.dropbox.com/scl/fo/3oea4bf3j8p3w0ykzu0ja/ADvCB3Gwj7czXdTbdtFvYWc?rlkey=77gy9pwnqss1czud1xhcv3cgz&st=s89rnojp&dl=0
 
