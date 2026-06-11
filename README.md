@@ -1,6 +1,6 @@
 <h1 align="center">DeepNMR</h1>
 
-<img width="1280" height="673" alt="DeepNMR" src="https://github.com/user-attachments/assets/e6aac31a-9acf-4f4a-8f6f-3af25fb91ff0" />
+<img width="1536" height="1024" alt="DeepNMR_TOC" src="https://github.com/user-attachments/assets/9dae2584-3b7e-4ef1-a464-15d94e7341f8" />
 
 
 ##
