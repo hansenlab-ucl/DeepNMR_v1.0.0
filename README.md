@@ -38,4 +38,4 @@ We hope DeepNMR will make deep learning-enhanced NMR processing more accessible 
 
 2. N. P. Khandave, V. M. R. Kakita, C. J. Buchanan, V. K. Shukla, K. Haubrich, P. Vallurupalli, D. F. Hansen,  **_Proc. Natl. Acad. Sci. USA, 2026, 23, 17, e2527937123_**. Two-dimensional NMR from a single pulse: Reconstructing heteronuclear 2D spectra via off-resonance decoupling and deep neural networks. https://doi.org/10.1073/pnas.2527937123
 
-3. V. K. Shukla, G. Karunanithy, P. Vallurupalli, D. F. Hansen,  **_Sci. Adv. 2024, 10, eadr2155_**. A combined NMR and deep neural network approach for enhancing the spectral resolution of aromatic side chains in proteins. https://doi.org/10.1126/sciadv.adr215
+3. V. K. Shukla, G. Karunanithy, P. Vallurupalli, D. F. Hansen,  **_Sci. Adv. 2024, 10, eadr2155_**. A combined NMR and deep neural network approach for enhancing the spectral resolution of aromatic side chains in proteins. [https://doi.org/10.1126/sciadv.adr215](https://doi.org/10.1126/sciadv.adr2155)
